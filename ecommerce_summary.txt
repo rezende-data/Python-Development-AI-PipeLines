@@ -1,0 +1,49 @@
+**Executive Summary – Competitive Pricing Review (SKU NK‑01 to NK‑03)**  
+
+| SKU | Product | Competitor A Price | Our Price | Δ (Our‑Competitor) | Stock Status |
+|-----|---------|-------------------|-----------|-------------------|--------------|
+| NK‑01 | Pro Running Shoes | $120.00 | **$135.00** | **+ $15.00** (12.5 % premium) | In Stock |
+| NK‑02 | Ultra‑Lightweight Hoodie | $65.00 | **$60.00** | **– $5.00** (‑7.7 % discount) | Low Stock |
+| NK‑03 | Compression Shorts | $35.00 | **$42.00** | **+ $7.00** (20 % premium) | Out of Stock |
+
+---
+
+### 1. Price Disparity Highlights  
+- **Premium Positioning (NK‑01, NK‑03):** We are pricing 12‑20 % above the direct competitor on two core items, which could pressure price‑sensitive shoppers, especially on a high‑volume, performance‑driven category (running shoes).  
+- **Undercut (NK‑02):** The hoodie is priced 7‑8 % lower than the competitor, giving us a clear price advantage, but the low‑stock signal may blunt the benefit.  
+- **Stock‑Driven Gaps:** The most pronounced premium (NK‑03) coincides with an out‑of‑stock situation, potentially magnifying lost sales and brand perception of unavailability.
+
+---
+
+### 2. Strategic Positioning Risks  
+| Risk | Why It Matters | SKU(s) Affected |
+|------|----------------|-----------------|
+| **Price‑sensitive churn** | A $15 premium on a high‑interest item (running shoes) can push shoppers to the lower‑priced alternative, especially when the competitor’s price is within the “sweet‑spot” range for this segment. | NK‑01 |
+| **Perceived over‑pricing** | A 20 % premium on compression shorts (NK‑03) may signal a premium quality claim we are not substantiating (e.g., limited features, brand cachet). Coupled with out‑of‑stock, this can erode trust. | NK‑03 |
+| **Margin vs. volume trade‑off** | Under‑pricing the hoodie (NK‑02) protects market share but squeezes margin. If stock remains low, the price advantage cannot be fully leveraged, and we risk stock‑outs that frustrate price‑sensitive buyers. | NK‑02 |
+| **Stock‑price mismatch** | Low stock on a lower‑priced item (NK‑02) creates a “scarcity‑premium” paradox—customers see a good deal but can’t buy it, potentially driving them to the competitor despite the price edge. | NK‑02 |
+| **Brand equity dilution** | Maintaining a premium price on out‑of‑stock items (NK‑03) may signal poor inventory planning, harming the brand’s reputation for reliability. | NK‑03 |
+
+---
+
+### 3. Pricing Adjustment Recommendations  
+
+| Action | Rationale | Implementation Timeline |
+|--------|-----------|--------------------------|
+| **NK‑01 – Reduce price by $8‑$10 (to $125‑$127)** | Brings the shoe within a $5‑$7 range of the competitor, preserving a modest premium that can be justified by superior features or bundled accessories (e.g., free insoles). This should recapture price‑sensitive traffic while protecting margin. | Immediate (price update within 48 h). |
+| **NK‑02 – Keep price at $60 but **increase available inventory** to at least 1.5× the weekly sales velocity** | The price advantage is strong; the bottleneck is stock. Re‑stock to meet demand, then monitor if a slight price increase (e.g., $62‑$63) is needed to protect margin after inventory stabilizes. | Inventory replenishment within 1‑2 weeks; price review after 4 weeks. |
+| **NK‑03 – Either (a) lower price to $38‑$40 **or** (b) reposition as a premium “Performance+” line with added value (e.g., moisture‑wicking fabric, limited‑edition branding) and raise price to $45‑$48** | Option (a) closes the 20 % premium gap, likely boosting volume once restocked. Option (b) leverages the premium gap by creating a differentiated sub‑brand, allowing a higher price while justifying it to the consumer. Choose based on product development cycle and margin goals. | Conduct rapid A/B pricing test (2‑week pilot) once stock is replenished; roll out winning price within 3 weeks. |
+| **Cross‑SKU Monitoring** | Set up a price‑elasticity dashboard to track conversion rates, average order value, and margin impact after each price change. Trigger alerts if any SKU’s conversion drops >5 % or margin falls below target thresholds. | Dashboard live within 2 weeks; weekly monitoring thereafter. |
+
+---
+
+#### Quick‑Take Action List (Next 7 Days)
+
+1. **Update NK‑01 price to $126** (mid‑point of recommended range).  
+2. **Approve purchase order for additional hoodie units** to lift NK‑02 stock to a minimum of 150 % of projected weekly demand.  
+3. **Initiate a price‑test for NK‑03**:  
+   - Variant A – $39 (price‑cut).  
+   - Variant B – $46 + “Performance+” badge and upgraded packaging.  
+4. **Set up alerts** in the pricing analytics tool for any >3 % dip in conversion on the two premium‑priced SKUs.  
+
+Implementing these calibrated moves will tighten our price competitiveness, safeguard margin on the hoodie, and either capture volume or justify premium positioning on the compression shorts—ultimately strengthening our market share while maintaining brand equity.

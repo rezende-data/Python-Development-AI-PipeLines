@@ -1,0 +1,4 @@
+sku,name,competitor_a_price,our_price,stock_status,price_difference
+NK-01,Pro Running Shoes,120.0,135.0,In Stock,15.0
+NK-02,Ultra Lightweight Hoodie,65.0,60.0,Low Stock,-5.0
+NK-03,Compression Shorts,35.0,42.0,Out of Stock,7.0
