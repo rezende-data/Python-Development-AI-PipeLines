@@ -1,0 +1,7 @@
+Company: Apex Logistics
+Score: 72
+Hook: Imagine cutting your cold storage costs by 20% while gaining real-time temperature visibility across all your European hubs.
+
+Company: FinTech Flow
+Score: 85
+Hook: Imagine your users completing bank transfers in seconds without ever leaving your platform.
