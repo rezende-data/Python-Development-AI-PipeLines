@@ -1,0 +1,6 @@
+--- B2B EXECUTIVE SUMMARY ---
+
+Target Query: B2B SaaS software reviews customer complaints Trustpilot
+Total Platforms Analyzed: 6
+
+Extracted SaaS Trustpilot sentiment data and generated automated sales hooks using Groq API.
