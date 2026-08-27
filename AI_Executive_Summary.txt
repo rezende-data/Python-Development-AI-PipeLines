@@ -1,0 +1,6 @@
+--- B2B EXECUTIVE SUMMARY ---
+
+Target Query: roofing contractors Miami FL YellowPages BBB business directory
+Total Leads Analyzed: 3
+
+Extracted directory search data and structured automated B2B sales hooks using Groq API.
