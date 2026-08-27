@@ -5,26 +5,34 @@ Production-ready Python infrastructure built for automated web extraction, ETL d
 ---
 
 ## 🚀 Executive Summary
+
 This repository serves as a centralized portfolio hub for enterprise-grade, end-to-end data pipelines designed for commercial deployment. Every project features secure dynamic API key loading, anti-bot handling, and multi-format reporting (`.csv`, `.xlsx`, `.txt`).
 
 ---
 
 ## 📦 Featured Automation Projects
 
-* **Shopify Stealth Scraper**  
-  Bypasses anti-bot headers and extracts live store product data into clean, normalized `.csv` files.
-* **Market Intelligence Pipeline**  
-  Extracts promotional pricing trends and automatically generates AI executive analysis reports.
-* **E-Commerce Competitor Intelligence**  
-  Monitors rival SKUs, calculates relative price disparities, and outputs LLM pricing strategies.
-* **B2B Lead Enrichment & AI Scoring**  
-  Parses raw prospect firmographics, assigns ICP fit scores (1–100), and auto-generates personalized cold outreach hooks.
-* **Real Estate Yield Aggregator**  
-  Calculates Net Operating Income (NOI) and Cap Rates across property listings to generate automated investment memos.
+* **B2B Lead Enrichment & AI Scoring** (`/B2B_Lead_Enrichment`)  
+  * **Strategy:** Turns raw prospect lists into high-converting sales pipelines. Parses firmographics, assigns ideal customer profile (ICP) scores (1–100), and auto-generates custom cold outreach hooks via Groq.
+
+* **E-Commerce Competitor Intelligence** (`/Ecommerce_Competitor_Intelligence`)  
+  * **Strategy:** Delivers automated pricing intelligence for brand managers. Tracks competitor SKUs in real time, flags margin gaps or inventory stockouts, and outputs LLM-driven repricing recommendations.
+
+* **Real Estate Deal Aggregator** (`/Real_Estate_Deal_Aggregator`)  
+  * **Strategy:** Accelerates investment underwriting. Extracts multi-market property listings, calculates key yield metrics (Net Operating Income and Cap Rates), and compiles automated acquisition memos.
+
+* **Trustpilot SaaS Tracker** (`/Trustpilot_SaaS_Tracker`)  
+  * **Strategy:** Exploits competitor churn. Scrapes SaaS product review feeds, isolates negative 1–2 star customer feedback with LLM sentiment analysis, and yields qualified replacement prospects.
+
+* **YellowPages Lead Gen Engine** (`/YellowPages_Lead_Gen`)  
+  * **Strategy:** High-speed regional B2B prospecting. Extracts commercial listings across target zip codes and niches, handles missing fields, deduplicates records, and exports client-ready CSV datasets.
+
+* **Yelp Local Scorer & Pitch Generator** (`/Yelp_Local_Scorer`)  
+  * **Strategy:** Identifies low-hanging agency targets. Scrapes local service providers, scores their profile completeness and rating gaps, and drafts tailored 2-sentence pitch hooks for instant cold outreach.
 
 ---
 
-## 🛠 Core Technical Stack
+## 🛠️ Core Technical Stack
 
 * **Languages & Core ETL:** Python 3.x, Pandas, OpenPyXL, BeautifulSoup4, Requests
 * **AI Orchestration:** Groq REST API (`openai/gpt-oss-120b`), OpenAI API
