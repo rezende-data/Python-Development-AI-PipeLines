@@ -1,6 +1,4 @@
 
----
-
 ### 2. YellowPages Lead Gen
 
 ```markdown
