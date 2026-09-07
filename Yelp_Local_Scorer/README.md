@@ -1,3 +1,7 @@
+**Idiomas / Languages:** 🇧🇷 [Português](README.pt-br.md) | 🇺🇸 [English](README.md)
+
+---
+
 # Yelp Local Scorer & Automated Pitch Generator
 
 An automated lead-scoring framework that analyzes local business listings on Yelp, detects weak online optimization signals (e.g., unclaimed profiles, low review counts, missing website links), and generates personalized AI outreach hooks for agency cold outreach.
