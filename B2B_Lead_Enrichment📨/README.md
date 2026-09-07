@@ -1,3 +1,7 @@
+**Idiomas / Languages:** 🇧🇷 [Português](README.pt-br.md) | 🇺🇸 [English](README.md)
+
+---
+
 # B2B Lead Enrichment & AI Lead Scoring Engine
 
 An end-to-end B2B lead processing system designed to enrich raw prospect data, evaluate Ideal Customer Profile (ICP) alignment, and generate high-converting cold outreach hooks automatically using structured LLM reasoning.
