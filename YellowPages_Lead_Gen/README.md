@@ -1,3 +1,7 @@
+**Idiomas / Languages:** 🇧🇷 [Português](README.pt-br.md) | 🇺🇸 [English](README.md)
+
+---
+
 # YellowPages B2B Lead Generation Engine
 
 An automated B2B scraper tailored for local market research and cold lead prospecting. It extracts targeted contact info (business name, phone, website, address, rating) by niche and geography.
