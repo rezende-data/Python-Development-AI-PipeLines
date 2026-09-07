@@ -1,3 +1,7 @@
+**Idiomas / Languages:** 🇧🇷 [Português](README.pt-br.md) | 🇺🇸 [English](README.md)
+
+---
+
 # Python Web Scraping & AI Automation Pipelines
 
 Production-ready Python infrastructure built for automated web extraction, ETL data transformation (Pandas), and high-speed LLM enrichment via Groq & OpenAI APIs (`openai/gpt-oss-120b`).
