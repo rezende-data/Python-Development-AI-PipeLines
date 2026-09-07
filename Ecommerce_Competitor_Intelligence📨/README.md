@@ -1,3 +1,7 @@
+**Idiomas / Languages:** 🇧🇷 [Português](README.pt-br.md) | 🇺🇸 [English](README.md)
+
+---
+
 # E-Commerce Competitor Intelligence & AI Pricing Engine
 
 An automated ETL and market analysis pipeline built in Python. This tool ingests target e-commerce catalog data, calculates relative pricing disparities against internal SKUs, and leverages Groq's high-speed LLM endpoint (`openai/gpt-oss-120b`) to generate actionable executive briefing reports.
