@@ -1,3 +1,7 @@
+**Idiomas / Languages:** 🇧🇷 [Português](README.pt-br.md) | 🇺🇸 [English](README.md)
+
+---
+
 # Trustpilot SaaS Tracker & Competitor Intelligence Engine
 
 A lightweight Python pipeline designed to monitor SaaS review health on Trustpilot, extract customer sentiment, identify negative review trends, and generate custom outreach leads based on competitor churn risks.
