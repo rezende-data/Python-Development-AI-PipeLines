@@ -7,7 +7,7 @@ Um sistema de ponta a ponta para processamento de leads B2B, projetado para enri
 ## 🚀 Valor de Negócio
 
 * **Scoring Automatizado de Leads:** Atribui uma pontuação de adequação ao ICP de 1 a 100 com base no setor e posicionamento da empresa.
-* **Prospecção Personalizada:** Utiliza `openai/gpt-4o-mini` para produzir primeiras linhas totalmente adaptadas para campanhas de e-mail.
+* **Prospecção Personalizada:** Utiliza `openai/gpt-oss-120b` para produzir primeiras linhas totalmente adaptadas para campanhas de e-mail.
 * **Dados Estruturados:** Exporta dados validados em schemas estritos de JSON diretamente para formatos CSV/XLSX, prontos para bancos de dados relacionais.
 
 ## 🛠️ Stack Tecnológica
