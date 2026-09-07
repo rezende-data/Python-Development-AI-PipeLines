@@ -1,3 +1,7 @@
+**Idiomas / Languages:** 🇧🇷 [Português](README.pt-br.md) | 🇺🇸 [English](README.md)
+
+---
+
 # Real Estate Yield Analyzer & Deal Aggregator
 
 A programmatic property evaluation framework that processes real estate listings, calculates key financial performance metrics (Gross Yield, Net Operating Income, Cap Rates), and compiles AI-driven institutional investment memos.
